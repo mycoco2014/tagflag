@@ -5,7 +5,7 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/anacrolix/missinggo/slices"
+	"github.com/mycoco2014/missinggo/slices"
 	"github.com/huandu/xstrings"
 )
 

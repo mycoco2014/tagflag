@@ -5,8 +5,8 @@ import (
 	"io"
 	"text/tabwriter"
 
-	"gitlab.com/x-common/missinggo"
-	"gitlab.com/x-common/missinggo/slices"
+	"github.com/mycoco2014/missinggo"
+	"github.com/mycoco2014/missinggo/slices"
 )
 
 func (p *parser) printUsage(w io.Writer) {
